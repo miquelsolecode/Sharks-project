@@ -1,6 +1,8 @@
 # Sharks-project
 
 **INTRODUCTION**: 
+
+
 Sharks are often sensationalized as dangerous predators in the media, but it's essential to recognize that fatal encounters with humans are relatively rare. Despite the extensive human presence in the ocean, sharks do not actively hunt humans as their natural prey.
 The portrayal of sharks as relentless attackers in the media may lead to misconceptions about their behavior towards humans. While there have been recorded shark attacks, it's crucial to remember that these incidents are relatively rare considering the vast number of people in the ocean.
 Looking for external factors, we hypothesized that the moon phases and it’s tides shift have an effect in shark behaviour or agressiveness, hoping for a reasonable conclusion.
